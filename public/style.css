@@ -1,18 +1,46 @@
 body {
-    background-color:silver;
-    color: rgb(65, 65, 65);
-    font-size: 30px;
-    margin: 10px;
+    color: slateblue;
+    margin: auto;
+    
 }
+
+A:hover{
+    text-decoration:none !important;
+}
+
 
 table{
     color: slateblue;
-    background-color: snow;
-    margin: 10px;
-    width: 50%;
-    height: 5%;
+    background-color:rgb(219, 213, 213);
+    margin: auto;
+    width: 1000px;
 }
 
-th{
-    width: 10%;
+
+
+td{
+    font-size: 20px;
+    margin-right: auto;
 }
+
+
+
+.col{
+    margin-right: auto;
+    width: 15%
+}
+
+.cl{
+    position: initial;
+    margin-right: auto;
+    width: 7.6%;
+}
+
+.c{
+    position: initial;
+    margin-right: auto;
+    width: 6.4%;
+}
+
+
+
